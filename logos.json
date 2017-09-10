@@ -1,0 +1,453 @@
+{
+  "items": [
+    {
+      "name": "Актау",
+      "files": [
+        "aktau.svg"
+      ],
+      "url": "http://aktau.gov.kz/",
+      "category": "cities"
+    },
+    {
+      "name": "Алматы",
+      "files": [
+        "almaty.svg"
+      ],
+      "url": "http://almaty.kz/",
+      "category": "cities"
+    },
+    {
+      "name": "Астана",
+      "files": [
+        "astana.svg"
+      ],
+      "url": "http://astana.gov.kz/ru/",
+      "category": "cities"
+    },
+    {
+      "name": "Уральск",
+      "files": [
+        "oral.svg"
+      ],
+      "url": "http://uralsk.gov.kz/",
+      "category": "cities"
+    },
+    {
+      "name": "Павлодар",
+      "files": [
+        "pavlodar.svg"
+      ],
+      "url": "http://akimat-pvl.gov.kz/",
+      "category": "cities"
+    },
+    {
+      "name": "Петропавловск",
+      "files": [
+        "petropavl.svg"
+      ],
+      "url": "http://www.sko.kz/",
+      "category": "cities"
+    },
+    {
+      "name": "Алтел",
+      "files": [
+        "altel.svg"
+      ],
+      "url": "http://www.altel.kz/",
+      "category": "communication"
+    },
+    {
+      "name": "Казахтелеком",
+      "files": [
+        "kazakhtelecom.svg"
+      ],
+      "url": "http://www.telecom.kz/",
+      "category": "communication"
+    },
+    {
+      "name": "Казпочта",
+      "files": [
+        "kazpost-kaz.svg",
+        "kazpost.svg"
+      ],
+      "url": "https://post.kz/",
+      "category": "communication"
+    },
+    {
+      "name": "kcell.svg",
+      "files": [
+        "kcell.svg"
+      ],
+      "url": "https://www.kcell.kz/",
+      "category": "communication"
+    },
+    {
+      "name": "tele2.svg",
+      "files": [
+        "tele2.svg"
+      ],
+      "url": "www.tele2.kz/",
+      "category": "communication"
+    },
+    {
+      "name": "Алматинский университет энергетики и связи",
+      "files": [
+        "aipet.svg"
+      ],
+      "url": "http://www.aipet.kz/",
+      "category": "education"
+    },
+    {
+      "name": "Алматы Менеджмент Университет",
+      "files": [
+        "almau.svg"
+      ],
+      "url": "http://www.almau.edu.kz/",
+      "category": "education"
+    },
+    {
+      "name": "Казахстанско-Немецкий университет",
+      "files": [
+        "dku.svg"
+      ],
+      "url": "http://ru.dku.kz/",
+      "category": "education"
+    },
+    {
+      "name": "Университет имени Сулеймана Демиреля",
+      "files": [
+        "sdu.svg"
+      ],
+      "url": "http://sdu.edu.kz/",
+      "category": "education"
+    },
+    {
+      "name": "Университет международного бизнеса",
+      "files": [
+        "uib.svg"
+      ],
+      "url": "http://uib.kz/",
+      "category": "education"
+    },
+    {
+      "name": "Altyn-i Bank",
+      "files": [
+        "altyn_i.svg"
+      ],
+      "url": "https://altyn-i.kz/",
+      "category": "finance"
+    },
+    {
+      "name": "АО 'Банк ЦентрКредит'",
+      "files": [
+        "centercredit.svg"
+      ],
+      "url": "https://www.bcc.kz/",
+      "category": "finance"
+    },
+    {
+      "name": "ePay",
+      "files": [
+        "epay.svg"
+      ],
+      "url": "https://epay.kkb.kz/",
+      "category": "finance"
+    },
+    {
+      "name": "eurasian_bank.svg",
+      "files": [
+        "eurasian_bank.svg"
+      ],
+      "url": "eurasian_bank.svg",
+      "category": "finance"
+    },
+    {
+      "name": "Евразийский банк",
+      "files": [
+        "halyk_bank.svg"
+      ],
+      "url": "https://www.eubank.kz/",
+      "category": "finance"
+    },
+    {
+      "name": "Хоум кредит банк",
+      "files": [
+        "homecredit.svg"
+      ],
+      "url": "https://www.homecredit.ru/",
+      "category": "finance"
+    },
+    {
+      "name": "Казахстанская фондовая биржа",
+      "files": [
+        "kase.svg"
+      ],
+      "url": "http://www.kase.kz/",
+      "category": "finance"
+    },
+    {
+      "name": "КАССА 24",
+      "files": [
+        "kassa24.svg"
+      ],
+      "url": "https://www.kassa24.kz/",
+      "category": "finance"
+    },
+    {
+      "name": "Казкоммерцбанк",
+      "files": [
+        "qazkom.svg"
+      ],
+      "url": "http://qazkom.kz/",
+      "category": "finance"
+    },
+    {
+      "name": "Сбербанк",
+      "files": [
+        "sberbank.svg"
+      ],
+      "url": "https://www.sberbank.kz/",
+      "category": "finance"
+    },
+    {
+      "name": "Цеснабанк",
+      "files": [
+        "tsesnabank.svg"
+      ],
+      "url": "https://www.tsb.kz/",
+      "category": "finance"
+    },
+    {
+      "name": "Банк ВТБ",
+      "files": [
+        "vtb.svg"
+      ],
+      "url": "http://vtb-bank.kz/",
+      "category": "finance"
+    },
+    {
+      "name": "Электронное правительство Республики Казахстан",
+      "files": [
+        "egov.svg"
+      ],
+      "url": "http://egov.kz/",
+      "category": "government"
+    },
+    {
+      "name": "Герб Казахстана",
+      "files": [
+        "emblem_of_kz.svg"
+      ],
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD",
+      "category": "government"
+    },
+    {
+      "name": "Самрук-Казына",
+      "files": [
+        "samruk_kazyna.svg"
+      ],
+      "url": "https://www.sk.kz/",
+      "category": "government"
+    },
+    {
+      "name": "Казахмыс",
+      "files": [
+        "kazakhmys.svg"
+      ],
+      "url": "http://www.kazakhmys.com/",
+      "category": "industry"
+    },
+    {
+      "name": "КазМунайГаз",
+      "files": [
+        "kazmunaygas.svg"
+      ],
+      "url": "http://www.kmg.kz/",
+      "category": "industry"
+    },
+    {
+      "name": "КазТрансОйл",
+      "files": [
+        "kaztransoil.svg"
+      ],
+      "url": "http://www.kaztransoil.kz/",
+      "category": "industry"
+    },
+    {
+      "name": "KEGOC",
+      "files": [
+        "kegoc.svg"
+      ],
+      "url": "http://www.kegoc.kz/",
+      "category": "industry"
+    },
+    {
+      "name": "Самрук-Энерго",
+      "files": [
+        "samryk_energy.svg"
+      ],
+      "url": "https://www.samruk-energy.kz/",
+      "category": "industry"
+    },
+    {
+      "name": "SAT&Co",
+      "files": [
+        "sat&co.svg"
+      ],
+      "url": "http://sat.kz/",
+      "category": "industry"
+    },
+    {
+      "name": "tengizchevroil.svg",
+      "files": [
+        "tengizchevroil.svg"
+      ],
+      "url": "tengizchevroil.svg",
+      "category": "industry"
+    },
+    {
+      "name": "Тенгизшевройл",
+      "files": [
+        "astana_proteam.svg"
+      ],
+      "url": "http://www.tengizchevroil.com/",
+      "category": "sports"
+    },
+    {
+      "name": "Федерация Футбола Казахстана",
+      "files": [
+        "football_federation_of_kazakhstan.svg"
+      ],
+      "url": "http://www.kff.kz/",
+      "category": "sports"
+    },
+    {
+      "name": "HeadHunter",
+      "files": [
+        "hh.kz.svg"
+      ],
+      "url": "https://hh.kz/",
+      "category": "technology"
+    },
+    {
+      "name": "HiPO",
+      "files": [
+        "hipo.svg"
+      ],
+      "url": "https://hipo.kz/",
+      "category": "technology"
+    },
+    {
+      "name": "iBEC Systems",
+      "files": [
+        "ibecsystems.svg"
+      ],
+      "url": "http://www.ibecsystems.com/",
+      "category": "technology"
+    },
+    {
+      "name": "Крыша",
+      "files": [
+        "krisha.svg"
+      ],
+      "url": "https://krisha.kz/",
+      "category": "technology"
+    },
+    {
+      "name": "PROFIT",
+      "files": [
+        "profit.svg"
+      ],
+      "url": "http://profit.kz/",
+      "category": "technology"
+    },
+    {
+      "name": "PS internet company",
+      "files": [
+        "ps.kz.svg"
+      ],
+      "url": "https://www.ps.kz/",
+      "category": "technology"
+    },
+    {
+      "name": "Rocket Firm",
+      "files": [
+        "rocketfirm.svg"
+      ],
+      "url": "https://rocketfirm.com/",
+      "category": "technology"
+    },
+    {
+      "name": "TOP.kz",
+      "files": [
+        "top.kz.svg"
+      ],
+      "url": "https://top.kz/",
+      "category": "technology"
+    },
+    {
+      "name": "Wooppay",
+      "files": [
+        "woppay.svg"
+      ],
+      "url": "https://www.wooppay.com/",
+      "category": "technology"
+    },
+    {
+      "name": "Есентай Молл",
+      "files": [
+        "esentaimall.svg"
+      ],
+      "url": "http://www.esentaimall.com/",
+      "category": "trade"
+    },
+    {
+      "name": "Логиком",
+      "files": [
+        "logycom.svg"
+      ],
+      "url": "http://www.logycom.kz/",
+      "category": "trade"
+    },
+    {
+      "name": "MEGA Park",
+      "files": [
+        "megapark.svg"
+      ],
+      "url": "http://parkmega.kz/",
+      "category": "trade"
+    },
+    {
+      "name": "Sulpak",
+      "files": [
+        "sulpak.svg"
+      ],
+      "url": "https://www.sulpak.kz/",
+      "category": "trade"
+    },
+    {
+      "name": "Air Astana",
+      "files": [
+        "air_astana.svg"
+      ],
+      "url": "https://www.airastana.com/",
+      "category": "travel"
+    },
+    {
+      "name": "Казахстанские железные дороги",
+      "files": [
+        "kzht.svg"
+      ],
+      "url": "http://www.railways.kz/",
+      "category": "travel"
+    },
+    {
+      "name": "SCAT Airlines",
+      "files": [
+        "scat.svg"
+      ],
+      "url": "http://www.scat.kz/ru/",
+      "category": "travel"
+    }
+  ]
+}
